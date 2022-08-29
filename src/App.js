@@ -2,8 +2,8 @@ import { useEffect, useState } from 'react';
 import './App.css';
 import CodeSnip from './CodeSnip';
 import data1 from './data.json';
-import { BrowserRouter as Router} from "react-router-dom";
-  import {Link} from "react-router-dom";
+// import { BrowserRouter as Router} from "react-router-dom";
+//   import {Link} from "react-router-dom";
 
 
 function App() {
